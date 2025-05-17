@@ -4,7 +4,7 @@ A Python-based application to measure and display your internet speed, providing
 
 ## 🖼️ Demo
 
-![Wifi Speed Test Demo](WifiSpeedTest%20demo.gif)
+![Wifi Speed Test Demo](wifi_speed_test_demo.gif)
 
 > *Note: If the GIF doesn't play, [click here to view the video demo](https://github.com/AlyanGulzar/Wifi-Speed-Test-/blob/main/Wifi%20Speed%20Test%20Demo%20Vid.mp4).*
 
